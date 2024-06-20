@@ -1,4 +1,4 @@
-Play on Lidraughts.org using Filipino dama board also known as damahan or dama matrix.
+Play on Lidraughts.org using Filipino dama board also known as ***Damahan*** or ***Dama Matrix***.
 
 Works with both 8x8 (32 points/spaces) and 10x10 (50 points/spaces) board.
 
