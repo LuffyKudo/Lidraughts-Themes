@@ -48,7 +48,7 @@
 .metal .is2d .is64 cg-board,.metal .is2d.is64 cg-board,
 .olive .is2d .is64 cg-board,.olive .is2d.is64 cg-board,
 .purple .is2d .is64 cg-board,.purple .is2d.is64 cg-board {
-    background-image: url("https://github.com/LuffyKudo/Lidraught-Themes/blob/main/Shogi-Themed%20Checkers%E2%88%95Draughts/Board%20(8x8).png?raw=true")!important;
+    background-image: url("https://github.com/LuffyKudo/Lidraughts-Themes/blob/main/Shogi-Themed%20Checkers%E2%88%95Draughts/Board%20(8x8).png?raw=true")!important;
 }
 
 .blue .is2d .is100 cg-board,.blue .is2d.is100 cg-board,
@@ -70,6 +70,6 @@
 .metal .is2d .is100 cg-board,.metal .is2d.is100 cg-board,
 .olive .is2d .is100 cg-board,.olive .is2d.is100 cg-board,
 .purple .is2d .is100 cg-board,.purple .is2d.is100 cg-board {
-    background-image: url("https://github.com/LuffyKudo/Lidraught-Themes/blob/main/Shogi-Themed%20Checkers%E2%88%95Draughts/Board%20(10x10).png?raw=true")!important;
+    background-image: url("https://github.com/LuffyKudo/Lidraughts-Themes/blob/main/Shogi-Themed%20Checkers%E2%88%95Draughts/Board%20(10x10).png?raw=true")!important;
 }
 }
