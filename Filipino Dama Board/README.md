@@ -4,7 +4,7 @@ Play on Lidraughts.org using Filipino dama board also known as ***Damahan*** or 
 - Works with all variants
 - Works with matches, puzzles, analysis and board editor
 
-More info about Filipino Checkers/Draughts at [How to Play Filipino Checkers](https://luffykudo.wordpress.com/2024/03/11/how-to-play-filipino-checkers/).
+To know more about Filipino Checkers/Draughts kindly visit [How to Play Filipino Checkers](https://luffykudo.wordpress.com/2024/03/11/how-to-play-filipino-checkers/).
 
 ![Filipino checkers draughts damahan dama matrix board on Lidraughts screenshot](https://raw.githubusercontent.com/LuffyKudo/Lidraught-Themes/main/Filipino%20Dama%20Board/Lidraughts%20Dama%20Matrix%20(32)%20Screenshot.bmp)
 
