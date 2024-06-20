@@ -1,4 +1,4 @@
-Play on Lidraughts.org using different themes.
+Play on Lidraughts.org using different themes!
 
 Themes available:
 - Filipino Dama Board
