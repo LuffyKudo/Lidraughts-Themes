@@ -1,4 +1,4 @@
-Use standard chess pawns and kings as men and kings on [Lidraughts.org](https://lidraughts.org). Pieces used are [Cburnett](https://en.wikipedia.org/wiki/User:Cburnett/GFDL_images/Chess) chess pieces.
+Play using standard western chess pawns and kings on [Lidraughts.org](https://lidraughts.org). Pieces used are [Cburnett](https://en.wikipedia.org/wiki/User:Cburnett/GFDL_images/Chess) chess pieces.
 
 - Works with all variants
 - Works with matches, puzzles, analysis and board editor
