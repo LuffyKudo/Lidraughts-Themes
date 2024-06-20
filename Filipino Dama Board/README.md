@@ -6,4 +6,4 @@ More info about Filipino Checkers/Draughts at [How to Play Filipino Checkers](ht
 
 ![Filipino checkers draughts damahan dama matrix board on Lidraughts screenshot](https://raw.githubusercontent.com/LuffyKudo/Lidraught-Themes/main/Filipino%20Dama%20Board/Lidraughts%20Dama%20Matrix%20(32)%20Screenshot.bmp)
 
-Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [Lidraughts.org](https://lidraughts.org).
+*Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [Lidraughts.org](https://lidraughts.org).*
