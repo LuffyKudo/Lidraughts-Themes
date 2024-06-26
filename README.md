@@ -9,8 +9,10 @@ Themes available:
 
 **Visit each folder for more info:**
 
-[![Static Badge](https://img.shields.io/badge/Lidraughts-Filipino_Dama_Board-blue)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Filipino%20Dama%20Board)<br>
-[![Static Badge](https://img.shields.io/badge/Lidraughts-Shogi--Themed_Checkers/Draughts-darkgreen)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Shogi-Themed%20Checkers%E2%88%95Draughts)<br>
+[![Static Badge](https://img.shields.io/badge/Lidraughts-Filipino_Dama_Board-blue)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Filipino%20Dama%20Board)
+
+[![Static Badge](https://img.shields.io/badge/Lidraughts-Shogi--Themed_Checkers/Draughts-darkgreen)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Shogi-Themed%20Checkers%E2%88%95Draughts)
+
 [![Static Badge](https://img.shields.io/badge/Lidraughts-Chess_Pieces-red)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Chess%20Pieces)
 
 # Screenshots
@@ -19,8 +21,8 @@ Click each image to enlarge.
 
 | Screenshot | Description |
 |---|---|
-| <img src="https://github.com/LuffyKudo/Lidraughts-Themes/blob/main/Filipino%20Dama%20Board/Lidraughts%20Dama%20Matrix%20(32)%20Screenshot.png?raw=true" alt="Filipino checkers draughts damahan dama matrix 8x8 64 32 board on Lidraughts screenshot" width="360"/> | **Filipino Damahan / Dama Matrix** <br> - 8x8 (32 fields) Board <br> - 10x10 (50 fields) Board |
-| <img src="https://github.com/LuffyKudo/Lidraughts-Themes/blob/main/Shogi-Themed%20Checkers%E2%88%95Draughts/Lidraughts%201-Kanji%20Screenshot.bmp?raw=true" alt="shogi-themed checkers/draughts lidraughts 1-kanji screenshot" width="360"/> | **Shogi-Themed Checkers/Draughts** <br> - 1-Kanji Pieces <br> - 2-Kanji Pieces |
+| <img src="https://github.com/LuffyKudo/Lidraughts-Themes/blob/main/Filipino%20Dama%20Board/Lidraughts%20Dama%20Matrix%20(32)%20Screenshot.png?raw=true" alt="Filipino checkers draughts damahan dama matrix 8x8 64 32 board on Lidraughts screenshot" width="360"/> <br> <img src="https://github.com/LuffyKudo/Lidraughts-Themes/blob/main/Filipino%20Dama%20Board/Lidraughts%20Dama%20Matrix%20(50)%20Screenshot.png?raw=true" alt="Filipino checkers draughts damahan dama matrix 10x10 100 36 board on Lidraughts screenshot" width="360"/> | **Filipino Damahan / Dama Matrix** <br> - 8x8 (32 fields) Board <br> - 10x10 (50 fields) Board |
+| <img src="https://github.com/LuffyKudo/Lidraughts-Themes/blob/main/Shogi-Themed%20Checkers%E2%88%95Draughts/Lidraughts%201-Kanji%20Screenshot.bmp?raw=true" alt="shogi-themed checkers/draughts lidraughts 1-kanji screenshot" width="360"/> <br> <img src="https://github.com/LuffyKudo/Lidraughts-Themes/blob/main/Shogi-Themed%20Checkers%E2%88%95Draughts/Lidraughts%202-Kanji%20Screenshot.bmp?raw=true" alt="shogi-themed checkers/draughts lidraughts 2-kanji screenshot" width="360"/>| **Shogi-Themed Checkers/Draughts** <br> - 1-Kanji Pieces <br> - 2-Kanji Pieces |
 | <img src="https://github.com/LuffyKudo/Lidraughts-Themes/blob/main/Chess%20Pieces/Lidraughts%20Chess%20Pieces%20Screenshot.bmp?raw=true" alt="chess pieces lidraughts screenshot]" width="360"/> | **Chess Pieces** |
 
 # License
@@ -30,3 +32,6 @@ Click each image to enlarge.
 **Please check README.md under each subfolders for more info.**
 
 *Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [Lidraughts.org](https://lidraughts.org).*
+
+|  | 10x10 (50 fields) Board |
+
