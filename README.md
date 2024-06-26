@@ -32,6 +32,3 @@ Click each image to enlarge.
 **Please check README.md under each subfolders for more info.**
 
 *Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [Lidraughts.org](https://lidraughts.org).*
-
-|  | 10x10 (50 fields) Board |
-
