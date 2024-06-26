@@ -1,4 +1,4 @@
-# About
+# Lidraughts Themes
 
 Play on Lidraughts.org using different themes!
 
