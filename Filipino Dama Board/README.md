@@ -8,7 +8,7 @@ Play on Lidraughts.org using Filipino dama board also known as ***Damahan*** or 
 
 To know more about Filipino Checkers/Draughts kindly visit:
 
-[![Static Badge](https://img.shields.io/badge/How_to_Play-Filipino_Checkers-blue)](https://luffykudo.wordpress.com/2024/03/11/how-to-play-filipino-checkers/)
+[![Static Badge](https://img.shields.io/badge/How_to_Play-Filipino_Checkers/Draughts-blue)](https://luffykudo.wordpress.com/2024/03/11/how-to-play-filipino-checkers/)
 
 # Sreenshots
 
