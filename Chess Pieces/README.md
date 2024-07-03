@@ -4,7 +4,7 @@ Play using standard western chess pawns and kings on Lidraughts.org!
 - Works with all variants
 - Works with matches, puzzles, analysis and board editor
 
-# Screenshot
+# Lidraughts Screenshot
 <img src="https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/Chess%20Pieces/Lidraughts%20Chess%20Pieces%20Screenshot.png" alt="chess pieces lidraughts screenshot" width="75%"></img>
 
 # License
