@@ -7,7 +7,7 @@ Themes available:
 - Shogi-Themed Checkers/Draughts
 - Chess Pieces
 
-**Visit each folder for more info:**
+Kindly visit each folder for more info:
 
 [![Static Badge](https://img.shields.io/badge/Lidraughts-Filipino_Dama_Board-blue)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Filipino%20Dama%20Board)
 
