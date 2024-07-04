@@ -1,4 +1,4 @@
-# Shogi-Themed Checkers/Draughts on Lidraughts! 
+# Shogi-Themed Checkers/Draughts on Lidraughts!
 
 [Shogi](https://en.wikipedia.org/wiki/Shogi) (Japanese Chess) is the Japanese cousin of western chess and now you can play checkers/draughts using shogi pieces and board on Lidraughts.
 
