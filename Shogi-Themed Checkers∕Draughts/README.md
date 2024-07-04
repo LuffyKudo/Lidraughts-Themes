@@ -2,7 +2,7 @@
 
 [Shogi](https://en.wikipedia.org/wiki/Shogi) (Japanese Chess) is the Japanese cousin of western chess and now you can play checkers/draughts using shogi pieces and board on Lidraughts.
 
-- Available in 1-Kanji and 2-Kanji versions
+- Available in 2-Kanji and 1-Kanji versions
 - Boards and pieces included
 - Works with all variants
 - Words with matches, puzzles, analysis and board editor
