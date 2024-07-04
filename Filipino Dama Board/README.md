@@ -1,6 +1,6 @@
 # Filipino Dama Board on Lidraughts!
 
-Play on Lidraughts.org using Filipino dama board also known as ***Damahan*** or ***Dama Matrix***.
+Play checkers/draughts using Filipino dama board, also known as ***Damahan*** or ***Dama Matrix***, on Lidraughts.org!
 
 - Works with both 8x8 (32 fields) and 10x10 (50 fields) boards
 - Works with all variants
