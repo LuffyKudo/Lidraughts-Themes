@@ -1,5 +1,5 @@
 # Chess Pieces on Lidraughts
-Play using standard western chess pawns and kings on Lidraughts.org!
+Play checkers/draughts using standard western chess pawns and kings on Lidraughts.org!
 
 - Works with all variants
 - Works with matches, puzzles, analysis and board editor
