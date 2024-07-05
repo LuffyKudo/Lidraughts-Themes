@@ -1,9 +1,11 @@
 /* ==UserStyle==
 @name          Chess Pieces on Lidraughts
 @version       20240704.07.41
-@namespace     Lidraughts
+@homepageURL   https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Chess%20Pieces
+@namespace     https://github.com/LuffyKudo/Lidraughts-Themes
 @description   Play checkers/draughts using standard western chess pawns and kings on Lidraughts.org!
 @author        LuffyKudo
+@license       CC-BY-SA-4.0
 ==/UserStyle== */
 
 @-moz-document domain("lidraughts.org") {
