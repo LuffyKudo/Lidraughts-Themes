@@ -1,45 +1,9 @@
 @-moz-document domain("lidraughts.org") {
-.blue .is2d .is64 cg-board,
-.blue2 .is2d .is64 cg-board,
-.blue3 .is2d .is64 cg-board,
-.canvas .is2d .is64 cg-board,
-.wood .is2d .is64 cg-board,
-.wood2 .is2d .is64 cg-board,
-.wood3 .is2d .is64 cg-board,
-.maple .is2d .is64 cg-board,
-.brown .is2d .is64 cg-board,
-.brown2 .is2d .is64 cg-board,
-.leather .is2d .is64 cg-board,
-.match .is2d .is64 cg-board,
-.ic .is2d .is64 cg-board,
-.green .is2d .is64 cg-board,
-.marble .is2d .is64 cg-board,
-.grey .is2d .is64 cg-board,
-.metal .is2d .is64 cg-board,
-.olive .is2d .is64 cg-board,
-.purple .is2d .is64 cg-board {
+.is2d .is64 cg-board {
     background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLSBDcmVhdGVkIHdpdGggSW5rc2NhcGUgKGh0dHA6Ly93d3cuaW5rc2NhcGUub3JnLykgLS0+CjxzdmcgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgNDA2LjM5OTk5IDQwNi4zOTk5OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KIDxyZWN0IHdpZHRoPSI0MDYuMzk5OTkiIGhlaWdodD0iNDA2LjM5OTk5IiBmaWxsPSIjZmZjZTllIiBzdHJva2U9IiNkMThiNDciIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIzIi8+CiA8ZyBmaWxsPSIjZDE4YjQ3Ij4KICA8cGF0aCBkPSJNIDI1LjQsMzgxIDM4MSwyNS40IE0gMTI3LDM4MSAyNS40LDI3OS40IE0gMjUuNCwxNzcuOCAyMjguNiwzODEgTSAzMzAuMiwzODEgMjUuNCw3Ni4xOTk5OTkgTSA3Ni4xOTk5OTksMjUuNCAzODEsMzMwLjIgTSAzODEsMjI4LjYgMTc3LjgsMjUuNCBtIDEwMS42LDAgTCAzODEsMTI3IE0gNzYuMTk5OTk5LDI1LjQgMjUuNCw3Ni4xOTk5OTkgTSAyNS40LDE3Ny44IDE3Ny44LDI1LjQgbSAxMDEuNiwwIC0yNTQsMjU0IE0gMzgxLDMzMC4yIDMzMC4yLDM4MSBNIDIyOC42LDM4MSAzODEsMjI4LjYgTSAzODEsMTI3IDEyNywzODEiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjMiLz4KICA8cGF0aCBkPSJtNDA2LjM5OTk5IDM1NS42LTUwLjc5OTk5IDUwLjc5OTk5aDUwLjc5OTk5eiIvPgogIDxwYXRoIGQ9Ik0gNTAuNzk5OTk5LDAgMCw1MC43OTk5OTkgViAwIFoiLz4KIDwvZz4KPC9zdmc+Cg==")!important;
 }
 
-.blue .is2d .is100 cg-board,
-.blue2 .is2d .is100 cg-board,
-.blue3 .is2d .is100 cg-board,
-.canvas .is2d .is100 cg-board,
-.wood .is2d .is100 cg-board,
-.wood2 .is2d .is100 cg-board,
-.wood3 .is2d .is100 cg-board,
-.maple .is2d .is100 cg-board,
-.brown .is2d .is100 cg-board,
-.brown2 .is2d .is100 cg-board,
-.leather .is2d .is100 cg-board,
-.match .is2d .is100 cg-board,
-.ic .is2d .is100 cg-board,
-.green .is2d .is100 cg-board,
-.marble .is2d .is100 cg-board,
-.grey .is2d .is100 cg-board,
-.metal .is2d .is100 cg-board,
-.olive .is2d .is100 cg-board,
-.purple .is2d .is100 cg-board {
+.is2d .is100 cg-board {
     background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLSBDcmVhdGVkIHdpdGggSW5rc2NhcGUgKGh0dHA6Ly93d3cuaW5rc2NhcGUub3JnLykgLS0+CjxzdmcgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgNTA4IDUwOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KIDxnPgogIDxyZWN0IHdpZHRoPSI1MDgiIGhlaWdodD0iNTA4IiBmaWxsPSIjZmZjZTllIiBzdHJva2U9IiNkMThiNDciIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIzIi8+CiAgPGcgZmlsbD0iI2QxOGI0NyI+CiAgIDxwYXRoIGQ9Im0xMjcgNDgyLjU5OTk5LTEwMS42MDAwMDEtMTAxLjU5OTk5bTAtMTAxLjYgMjAzLjE5OTk5MSAyMDMuMTk5OTltMTAxLjYwMDAxIDAtMzA0LjgwMDAwMS0zMDQuNzk5OTltMC0xMDEuNjAwMDAxIDQwNi4zOTk5OTEgNDA2LjM5OTk5MW01MC44LTUwLjgtNDA2LjM5OTk5MS00MDYuMzk5OTkxbTEwMS42MDAwMDEgMCAzMDQuNzk5OTkgMzA0LjgwMDAwMW0wLTEwMS42MDAwMS0yMDMuMTk5OTktMjAzLjE5OTk5MW0xMDEuNiAwIDEwMS41OTk5OSAxMDEuNjAwMDAxbS00NTcuMTk5OTkxLTUwLjgwMDAwMSA1MC44LTUwLjhtMTAxLjYwMDAwMSAwLTE1Mi40MDAwMDEgMTUyLjQwMDAwMW0wIDEwMS42IDI1NC4wMDAwMDEtMjU0LjAwMDAwMW0xMDEuNiAwLTM1NS42MDAwMDEgMzU1LjYwMDAwMW00MDYuMzk5OTkxIDEwMS41OTk5OSA1MC44LTUwLjhtMC0xMDEuNTk5OTktMTUyLjM5OTk5IDE1Mi4zOTk5OW0tMTAxLjYwMDAxIDAgMjU0LTI1NG0wLTEwMS41OTk5OS0zNTUuNTk5OTkgMzU1LjU5OTk5bS0xMDEuNjAwMDAxIDAgNDU3LjE5OTk5MS00NTcuMTk5OTkxIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIzIi8+CiAgIDxwYXRoIGQ9Im01MDcuOTk5OTkgNDU3LjE5OTk5LTUwLjggNTAuOGg1MC44eiIvPgogICA8cGF0aCBkPSJNIDUwLjc5OTk5OSwwIDAsNTAuNzk5OTk5IFYgMCBaIi8+CiAgPC9nPgogPC9nPgo8L3N2Zz4K")!important;
 }
 }
