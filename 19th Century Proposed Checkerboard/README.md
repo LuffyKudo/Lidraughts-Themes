@@ -7,7 +7,7 @@ And now you can play checkers/draughts using the 19th Century Proposed Checkerbo
 - Works with all variants
 - Works with matches, puzzles, analysis and board editor
 
-# Lidraughts Sreenshots
+# Lidraughts Sreenshot
 <img src="https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/19th%20Century%20Proposed%20Checkerboard/Lidraughts%2019th%20Century%20Proposed%20Checkerboard.png" alt="19th century proposed checkerboard lidraughts screenshot" width="75%"></img>
 
 The board on Lidraughts are cropped at the sides to fit Lidraughts's board dimension. To view the uncropped 19th Century Proposed Checkerboard kindly visit:
