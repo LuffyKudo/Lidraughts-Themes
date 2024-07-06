@@ -5,7 +5,7 @@ And now you can play checkers/draughts using the 19th Century Proposed Checkerbo
 
 - Works with both 8x8 (32 fields) and 10x10 (50 fields) boards
 - Works with all variants
-- Works with matches, puzzles, analysis and board editor 
+- Works with matches, puzzles, analysis and board editor
 
 # Lidraughts Sreenshot
 <img src="https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/19th%20Century%20Proposed%20Checkerboard/Lidraughts%2019th%20Century%20Proposed%20Checkerboard.png" alt="19th century proposed checkerboard lidraughts screenshot" width="75%"></img>
