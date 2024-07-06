@@ -1,5 +1,5 @@
 # 19th Century Proposed Checkerboard
-A square board with all the squares rotated forty-five degrees was proposed in the 19th century. Unlike the traditional board, all the squares are used in this one.
+In the 19th century, a square board with all the squares rotated forty-five degrees was proposed. Unlike the traditional board, all the squares are used in this board.
 
 And now you can play checkers/draughts using the 19th Century Proposed Checkerboard on Lidraughts!
 
