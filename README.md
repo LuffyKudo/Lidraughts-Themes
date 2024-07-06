@@ -8,10 +8,12 @@ Themes available:
 - Chess Pieces
 - 19th Century Proposed Checkerboard
 
-Kindly visit each folder for more info:
-| [![Static Badge](https://img.shields.io/badge/Lidraughts-Filipino_Dama_Board-blue)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Filipino%20Dama%20Board) | [![Static Badge](https://img.shields.io/badge/Lidraughts-Shogi--Themed_Checkers/Draughts-darkgreen)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Shogi-Themed%20Checkers%E2%88%95Draughts) |
-| :---: | :---: |
-| [![Static Badge](https://img.shields.io/badge/Lidraughts-Chess_Pieces-red)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Chess%20Pieces) | [![Static Badge](https://img.shields.io/badge/Lidraughts-19th_Century_Proposed_Checkerboard-yellow)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/19th%20Century%20Proposed%20Checkerboard) |
+| Kindly visit each folder for more info
+| --- |
+| [![Static Badge](https://img.shields.io/badge/Lidraughts-Filipino_Dama_Board-blue)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Filipino%20Dama%20Board) |
+| [![Static Badge](https://img.shields.io/badge/Lidraughts-Shogi--Themed_Checkers/Draughts-darkgreen)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Shogi-Themed%20Checkers%E2%88%95Draughts) |
+| [![Static Badge](https://img.shields.io/badge/Lidraughts-Chess_Pieces-red)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Chess%20Pieces) | 
+| [![Static Badge](https://img.shields.io/badge/Lidraughts-19th_Century_Proposed_Checkerboard-yellow)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/19th%20Century%20Proposed%20Checkerboard) |
 
 # Screenshots
 
