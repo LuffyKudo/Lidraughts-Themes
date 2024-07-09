@@ -4,6 +4,7 @@
 
 - Available in 2-Kanji and 1-Kanji versions
 - Boards and pieces included
+- Works with both 8x8 (32 fields) and 10x10 (50 fields) boards
 - Works with all variants
 - Words with matches, puzzles, analysis and board editor
 
