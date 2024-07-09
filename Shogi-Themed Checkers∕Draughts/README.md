@@ -10,7 +10,7 @@
 
 # Lidraughts Sreenshots
 
-| Screenshot | Description |
+| Screenshot | Caption |
 |---|---|
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/Shogi-Themed%20Checkers%E2%88%95Draughts/Lidraughts%202-Kanji%20Screenshot.png" alt="shogi-themed checkers/draughts lidraughts 2-kanji screenshot" width="360"/> | **Shogi-Themed Checkers/Draughts** <br> (2-Kanji) |
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/Shogi-Themed%20Checkers%E2%88%95Draughts/Lidraughts%201-Kanji%20Screenshot.png" alt="shogi-themed checkers/draughts lidraughts 1-kanji screenshot" width="360"/> | **Shogi-Themed Checkers/Draughts** <br> (1-Kanji) |
