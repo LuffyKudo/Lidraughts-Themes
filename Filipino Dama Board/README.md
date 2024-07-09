@@ -12,7 +12,7 @@ To know more about Filipino Checkers/Draughts kindly visit:
 
 # Lidraughts Sreenshots
 
-| Screenshot | Description |
+| Screenshot | Caption |
 |---|---|
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/Filipino%20Dama%20Board/Lidraughts%20Dama%20Matrix%20(32)%20Screenshot.png" alt="Filipino checkers draughts damahan dama matrix 8x8 64 32 board on Lidraughts screenshot" width="360"/> | 8x8 (32 fields) Board |
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/Filipino%20Dama%20Board/Lidraughts%20Dama%20Matrix%20(50)%20Screenshot.png" alt="Filipino checkers draughts damahan dama matrix 10x10 100 36 board on Lidraughts screenshot" width="360"/> | 10x10 (50 fields) Board |
