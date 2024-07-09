@@ -19,7 +19,7 @@ Themes available:
 
 Click each image to enlarge.
 
-| Screenshot | Description |
+| Screenshot | Caption |
 |---|---|
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/Filipino%20Dama%20Board/Lidraughts%20Dama%20Matrix%20(32)%20Screenshot.png" alt="Filipino checkers draughts damahan dama matrix 8x8 64 32 board on Lidraughts screenshot" width="360"/> <br> <img src="https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/Filipino%20Dama%20Board/Lidraughts%20Dama%20Matrix%20(50)%20Screenshot.png" alt="Filipino checkers draughts damahan dama matrix 10x10 100 36 board on Lidraughts screenshot" width="360"/> | **Filipino Damahan / Dama Matrix** <br> - 8x8 (32 fields) Board <br> - 10x10 (50 fields) Board |
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/Shogi-Themed%20Checkers%E2%88%95Draughts/Lidraughts%202-Kanji%20Screenshot.png" alt="shogi-themed checkers/draughts lidraughts 2-kanji screenshot" width="360"/> <br> <img src="https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/Shogi-Themed%20Checkers%E2%88%95Draughts/Lidraughts%201-Kanji%20Screenshot.png" alt="shogi-themed checkers/draughts lidraughts 1-kanji screenshot" width="360"/> | **Shogi-Themed Checkers/Draughts** <br> - 2-Kanji Pieces <br> - 1-Kanji Pieces |
