@@ -7,6 +7,7 @@ Themes available:
 - Shogi-Themed Checkers/Draughts
 - Chess Pieces
 - 19th Century Proposed Checkerboard
+- Doubutsu Checkers/Draughts
 
 | Kindly visit each folder for more info
 | --- |
@@ -14,6 +15,7 @@ Themes available:
 | [![Static Badge](https://img.shields.io/badge/Lidraughts-Shogi--Themed_Checkers/Draughts-darkgreen?logo=github)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Shogi-Themed%20Checkers%E2%88%95Draughts) |
 | [![Static Badge](https://img.shields.io/badge/Lidraughts-Chess_Pieces-red?logo=github)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Chess%20Pieces) | 
 | [![Static Badge](https://img.shields.io/badge/Lidraughts-19th_Century_Proposed_Checkerboard-yellow?logo=github)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/19th%20Century%20Proposed%20Checkerboard) |
+| [![Static Badge](https://img.shields.io/badge/Lidraughts-Doubutsu_Checkers/Draughts-purple?logo=github)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Doubutsu%20Checkers%E2%88%95Draughts) |
 
 # Screenshots
 
@@ -25,6 +27,7 @@ Click each image to enlarge.
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/Shogi-Themed%20Checkers%E2%88%95Draughts/Lidraughts%202-Kanji%20Screenshot.png" alt="shogi-themed checkers/draughts lidraughts 2-kanji screenshot" width="360"/> <br> <img src="https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/Shogi-Themed%20Checkers%E2%88%95Draughts/Lidraughts%201-Kanji%20Screenshot.png" alt="shogi-themed checkers/draughts lidraughts 1-kanji screenshot" width="360"/> | **Shogi-Themed Checkers/Draughts** <br> - 2-Kanji Pieces <br> - 1-Kanji Pieces |
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/Chess%20Pieces/Lidraughts%20Chess%20Pieces%20Screenshot.png" alt="chess pieces lidraughts screenshot]" width="360"/> | **Chess Pieces** |
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/19th%20Century%20Proposed%20Checkerboard/Screenshot%20(Lidraughts).png" alt="19th century proposed checkerboard lidraughts screenshot" width="360"></img> | **19th Century Proposed Checkerboard** | 
+| <img src="https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/Doubutsu%20Checkers%E2%88%95Draughts/Screenshot%20(Lidraughts).png" alt="doubutsu shogi checkers/draughts lidraughts screenshot" width="360"/> | **Doubutsu Checkers/Draughts** |
 
 # License
 
