@@ -1,4 +1,4 @@
-# Doubuts Checkers/Draughts (Animal Checkers/Draughts)
+# Doubutsu Checkers/Draughts (Animal Checkers/Draughts)
 
 [Doubutsu Shogi](https://en.wikipedia.org/wiki/D%C5%8Dbutsu_sh%C5%8Dgi) (Animal Shogi)  is a variant of shogi, the Japanese cousin of western chess. It is created by professional shogi players Madoka Kitao and Maiko Fujita with the goal of encouraging and teaching young children play shogi.
 
