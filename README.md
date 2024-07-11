@@ -17,7 +17,7 @@ Themes available:
 | [![Static Badge](https://img.shields.io/badge/Lidraughts-19th_Century_Proposed_Checkerboard-yellow?logo=github)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/19th%20Century%20Proposed%20Checkerboard) |
 | [![Static Badge](https://img.shields.io/badge/Lidraughts-Doubutsu_Checkers/Draughts-purple?logo=github)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Doubutsu%20Checkers%E2%88%95Draughts) |
 
-# Screenshots
+## Screenshots
 
 Click each image to enlarge.
 
@@ -29,11 +29,11 @@ Click each image to enlarge.
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/19th%20Century%20Proposed%20Checkerboard/Screenshot%20(Lidraughts).png" alt="19th century proposed checkerboard lidraughts screenshot" width="360"></img> | **19th Century Proposed Checkerboard** | 
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/Doubutsu%20Checkers%E2%88%95Draughts/Screenshot%20(Lidraughts).png" alt="doubutsu shogi checkers/draughts lidraughts screenshot" width="360"/> | **Doubutsu Checkers/Draughts** |
 
-# License
+## License
 
 <p xmlns:cc="http://creativecommons.org/ns#" >Unless otherwise stated, contents are licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
 *Please check README.md under each subfolders for more info.*
 
-#
+##
 *Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [Lidraughts.org](https://lidraughts.org).*
