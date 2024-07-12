@@ -9,7 +9,7 @@
 - Works with matches, puzzles, analysis and board editor
 
 ## Features
-- Select either 2-Kanji (*default*) or 1-Kanji style from Settings.
+- Select either 2-Kanji (*default*) or 1-Kanji style
 - Choose between four Kings Style:
   - Jewel-King (White has the Jewel while black has the King) [*default*]
   - King-Jewel (White has the King while black has the jewel)
