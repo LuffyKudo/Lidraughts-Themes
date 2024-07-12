@@ -9,7 +9,7 @@ And now you can play checkers/draughts using doubutsu shogi's board and pieces o
 - Works with all variants
 - Works with matches, puzzles, analysis and board editor
 
-****Note**: Move guide printed on each pieces does not exactly match with Frisian and Frysk! variants but nevertheless still very much playable (pieces in Frisian and Frysk! can also capture orthogonally).<br>I cannot seem to add seperate pieces for Frisian and Frysk! In case you know how, kindly help by [forking](https://github.com/LuffyKudo/Lidraughts-Themes/fork) the repo and creating a pull request. Thank you and God Bless =>*
+****Note**: Move guide printed on each pieces does not exactly match with the moveset of Frisian and Frysk! variants (pieces in Frisian and Frysk! can also capture orthogonally) but nevertheless still very much playable.<br>I cannot seem to add seperate pieces for Frisian and Frysk! In case you know how, kindly help by [forking](https://github.com/LuffyKudo/Lidraughts-Themes/fork) the repo and creating a pull request. Thank you and God Bless =>*
 
 ## Lidraughts Sreenshot
 Click/tap to enlarge.
