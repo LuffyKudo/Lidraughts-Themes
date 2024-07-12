@@ -1,6 +1,6 @@
 # Lidraughts Themes
 
-Play with different themes on Lidraughts.org!
+Play checkers/draughts with different themes on Lidraughts.org!
 
 | Themes Available <br> (click badge to view the theme)
 | --- |
