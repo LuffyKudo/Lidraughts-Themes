@@ -1,6 +1,6 @@
 # Lidraughts Themes
 
-Play on Lidraughts.org with different themes!
+Play with different themes on Lidraughts.org!
 
 | Themes Available <br> (click badge to visit the theme)
 | --- |
