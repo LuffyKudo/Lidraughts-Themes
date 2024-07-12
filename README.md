@@ -17,6 +17,24 @@ Themes available:
 | [![Static Badge](https://img.shields.io/badge/Lidraughts-19th_Century_Proposed_Checkerboard-yellow?logo=github)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/19th%20Century%20Proposed%20Checkerboard) |
 | [![Static Badge](https://img.shields.io/badge/Lidraughts-Doubutsu_Checkers/Draughts-purple?logo=github)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Doubutsu%20Checkers%E2%88%95Draughts) |
 
+## Features
+- Select between 5 themes:
+  - Filipino Dama Board (_default_)
+  - Shogi-Themed
+  - Chess Pieces
+  - 19th Century Proposed Checkerboard
+  - Doubutsu Checkers/Draughts
+
+If Shogi-Themed is selected, you can further configure it with these features:
+
+- Select either 2-Kanji (*default*) or 1-Kanji style
+- Choose between four Kings Style:
+  - Jewel-King (White has the Jewel while black has the King) [*default*]
+  - King-Jewel (White has the King while black has the jewel)
+  - Double Jewel (both have Jewels)
+  - Double King (both have Kings)
+
+![Lidraughts Themes stylus settings](https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/Images/Lidraughts%20Themes%20Settings.png)
 ## Screenshots
 
 Click each image to enlarge.
