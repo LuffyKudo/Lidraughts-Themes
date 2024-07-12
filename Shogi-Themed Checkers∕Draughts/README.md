@@ -8,6 +8,16 @@
 - Works with all variants
 - Works with matches, puzzles, analysis and board editor
 
+## Features
+- Select either 2-Kanji (*default*) or 1-Kanji style from Settings.
+- Choose between four Kings Style:
+  - Jewel-King (White has the Jewel while black has the King) [*default*]
+  - King-Jewel (White has the King while black has the jewel)
+  - Double Jewel (both have Jewels)
+  - Double King (both have Kings)
+
+![Shogi-Themed Checkers Draughts stylus settings](https://raw.githubusercontent.com/LuffyKudo/Lidraughts-Themes/main/Images/Shogi-Themed%20Settings.png)
+
 ## Lidraughts Sreenshots
 
 | Screenshot | Caption |
