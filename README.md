@@ -2,7 +2,7 @@
 
 Play with different themes on Lidraughts.org!
 
-| Themes Available <br> (click badge to visit the theme)
+| Themes Available <br> (click badge to view the theme)
 | --- |
 | [![Static Badge](https://img.shields.io/badge/Lidraughts-Filipino_Dama_Board-blue?logo=github)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Filipino%20Dama%20Board) |
 | [![Static Badge](https://img.shields.io/badge/Lidraughts-Shogi--Themed_Checkers/Draughts-darkgreen?logo=github)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Shogi-Themed%20Checkers%E2%88%95Draughts) |
