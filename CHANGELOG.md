@@ -7,7 +7,7 @@
 - Created [19th Century Proposed Checkerboard](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/19th%20Century%20Proposed%20Checkerboard)
 
 ## 2024-07-04
-- Released [Chess Pieces for Lidraughts](https://userstyles.world/style/17079/chess-pieces-on-lidraughts) on UserStyles.world.
+- Released [Chess Pieces for Lidraughts](https://userstyles.world/style/17079/chess-pieces-on-lidraughts) v20240704.07.41 on UserStyles.world.
 
 ## 2024-06-21
 - Released [Chess Pieces for Lidraughts](https://userstyles.org/styles/274927/lidraughts-chess-pieces) on Stylish.
